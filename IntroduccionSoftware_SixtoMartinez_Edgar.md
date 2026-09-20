@@ -45,4 +45,6 @@ Este ciclo se puede dividir en siete fases:
 
 [Fuente](https://www.ibm.com/es-es/think/topics/sdlc)
 
+![[codigo.png|390]]
+
 [Repositorio](https://github.com/edgarsm31/1DAMP_SixtoMartinez_Edgar/tree/main)
