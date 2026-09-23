@@ -5,8 +5,6 @@ Un programa informático es un conjunto de instrucciones escritas en un lenguaje
 
 Los programas pueden ser muy sencillos, como una calculadora, o muy complejos, como un sistema operativo o una aplicación web.
 
-asgsgasdgasg
-
 ## Diferencia entre código fuente, código objeto y código ejecutable
 
 ### Código fuente
